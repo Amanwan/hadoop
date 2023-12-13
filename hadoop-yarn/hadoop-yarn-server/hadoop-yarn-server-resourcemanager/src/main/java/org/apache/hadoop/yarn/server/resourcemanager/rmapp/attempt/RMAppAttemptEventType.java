@@ -48,6 +48,10 @@ public enum RMAppAttemptEventType {
   ATTEMPT_ADDED,
   
   // Source: RMAttemptImpl.recover
-  RECOVER
+  RECOVER,
+
+  //new add
+  ATTEMPT_SAVE_FAILED,
+  ATTEMPT_UPDATE_FAILED,
 
 }
