@@ -45,4 +45,7 @@ public enum RMAppEventType {
   // Source: RMStateStore
   APP_NEW_SAVED,
   APP_UPDATE_SAVED,
+  //new add
+  APP_UPDATE_FAILED,
+  APP_SAVE_FAILED,
 }
